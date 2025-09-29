@@ -9,8 +9,10 @@
 <h3> #10 Mcdonalds </h3>
 <h6> Mcdonalds, a classic American fast food chain, is ranked number 10 out of 10 on my list of things that make me happy. I always purchase the 10 piece chicken nuggest meal with a Mocha Frappe. I really enjoy the meal, but would not have it often. It can cause me to feel quite gross at times. I also struggle to finish the entire meal, and find the fries too dry for my liking. However, if given an option to get a quick comfort food, I always doordash Mcdonald's, especially at debate tournaments. </h6>
 ![Mcdonalds](harmann.github.io/mcdonalds.png)
-
-
+https://github.com/harmannkaur/harmann.github.io/blob/main/mcdonalds.png?raw=true
+https://live.staticflickr.com/2876/34308336086_fe19f0580d_b.jpg
+![Mcdonalds](mcdonalds.png)
+![Mcdonalds](https://harmannkaur.github.io/mcdonalds.png)
 <h3> #9 Coca Cola </h3> 
 <h6> Coke Cola is the best carbonated beverage there is, especially when it is drank on a very hot day with ice. I personally like the canned version above all others. If it does have the fizz, it tastes horrible. Sometimes I drink more coke than I do water, and I understand that is concerning for my health, but I only do this when we're at the beach.  </h6>
 <h3> #8 Rain </h3> 
