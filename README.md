@@ -1,4 +1,4 @@
-</html>
+
 <head> 
 <h1> Top 10 things that make me happy </h1>
 </head>
