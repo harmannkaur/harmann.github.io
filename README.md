@@ -43,8 +43,6 @@
 <h3> #4 My Little Pony </h3> 
 <h6> I began watching My Little Pony when I was four years old. I have watched every episode, every season, every movie, and every spin off. Sometimes I still watch it. I think it was just such a pivotal point of my childhood. My favorite characters are Rainbowdash and Rarity.  </h6>
 
-<img src="newmlp.webp" alt="newmlp" width="300" height="300"/>
-
 <head> 
 <h1> Top 3 </h1>
 </head>
